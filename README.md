@@ -1,24 +1,12 @@
-# p5play GPL v3 Licensing Exceptions
+# p5play-novice
 
-You can utilize p5play in a commercial project if at least ONE (1) of the following conditions is met:
+If you're an independent developer, small dev team, or student that can't afford to comply with the p5play Professional License Agreement, you can apply for a p5play [p5play Novice License](https://github.com/quinton-ashley/p5play-novice/blob/main/LICENSE.md).
 
-1. You are a current [p5play Patreon][] member paying for the appropriate tier.
+Email info@p5play.org with the title "novice". In the body of the message on separate lines, write your full name, email, link to your GitHub profile, and a description of how you plan to use p5play commercially. If you're approved, you'll be added to the following licensees list.
 
-2. You are publicly listed by Quinton Ashley on his p5play-exceptions page on GitHub.
+## Novice Licensees' Projects List
 
-3. You publicly release the source code for your entire project.
-
-p5play is licensed under the GPLv3, a copyleft license. Failure to comply is intellectual property theft. See the [LICENSING.md][] file in the p5play-web repository for information.
-
-## Granted Exceptions
-
-The following projects are currently granted exception status from Section 6 of the GPLv3, as it applies to p5play.
-
-Projects with a review date will be reviewed before that date for possible continued exception status.
-
-| Name        | Project    | Review Date     |
-| ----------- | ---------- | --------------- |
-| Nathan Anil | codera.app | July 30th, 2024 |
+- "codera.app" by Nathan Anil and the Codera dev team
 
 [p5play Patreon]: https://www.patreon.com/p5play
 [LICENSING.md]: https://github.com/quinton-ashley/p5play-web/blob/main/LICENSING.md
