@@ -1,6 +1,6 @@
 # p5play Novice License
 
-This License Agreement ("Agreement") is made between Quinton Ashley, the sole copyright owner of p5play ("Licensor"), and a valid applicant whose commercial project is currently listed on the [p5play-novice](https://github.com/quinton-ashley/p5play-novice) GitHub repository README.md page ("Licensee").
+This License Agreement ("Agreement") is made between Quinton Ashley, the sole copyright owner of p5play ("Licensor"), and an approved valid applicant as defined in Section 2 ("Licensee").
 
 ## 1. License Grant
 
@@ -26,9 +26,7 @@ To qualify as a valid applicant, you must either have a household income of less
 
 By applying for the opportunity to comply with this license agreement, you affirm that you are a valid applicant. The Licensor may ask for proof of your eligibility. The Licensor reserves the right to deny any applicant for any reason, at any time.
 
-To apply, email info@p5play.org with the title "novice". In the body of the email write a brief description of how you plan to use p5play commercially.
-
-If you're approved, you'll be added to the [p5play-novice][] README.md.
+Using the same email you used to sign up for a [p5play membership](https://p5play.org/pro/), send a message to info@p5play.org with the title "novice applicant". In the body of the email write a description of how you plan to use p5play commercially. If you're approved, you will be notified via a response to your email. Only approved valid applicants may use p5play under the terms of this license.
 
 This license exists to give novice developers the opportunity to use p5play commercially. If you can afford to be an active paying subscriber, at the appropriate tier, to the Licensor’s [GitHub Sponsors](https://github.com/sponsors/quinton-ashley) or [Patreon](https://www.patreon.com/p5play) ("Licensee"), please consider doing so. If you financially benefit from using p5play, it's only fair that you support its development!
 
@@ -50,7 +48,7 @@ The Licensor shall not be liable for any damages suffered by the Licensee result
 
 Termination of the Agreement will occur if the Licensee fails to comply with any term(s) of this Agreement. Therefore, termination can occur automatically, without notice from the Licensor.
 
-If the Licensee's project is no longer publicly listed on the p5play-novice GitHub repository README.md page, this Agreement will be immediately terminated.
+Termination can also occur for any reason, upon notice from the Licensor.
 
 ## 7. Entire Agreement
 
